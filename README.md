@@ -1,4 +1,4 @@
-# PiggyVest
+# PiggyCloneVest
 
 # Prerequisite
 - Command Prompt/POWERSHELL/ any? C.L.I (Command Line Interface).
@@ -22,7 +22,7 @@
 - After installation / Verification of git on your system.
 - Kindly, create an empty folder on your desktop, where you wish to write you code.
 - Open Command Prompt or any CLI, navigate to this folder you have created.
-- ***Type in:*** `git clone https://www.github.com/crypticwisdom/PiggyVest.git`
+- ***Type in:*** `git clone https://www.github.com/crypticwisdom/PiggyCloneVest.git`
 - The command above will download this repository into the empty folder.
 ***That's all***
 
@@ -33,3 +33,4 @@
 - **Ogar Precious**
 - **Somade Daniel**
 - **Nwachukwu Wisdom**
+- **Salami Kehinde**
